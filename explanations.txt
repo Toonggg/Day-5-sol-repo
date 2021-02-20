@@ -1,0 +1,10 @@
+1. Scipy
+Linear algebra
+Check script solutions_scipy.py
+Statistics
+Check script solutions_scipy.py
+
+2. Pandas
+a) Check notebook food_facts.ipynb
+b) Check notebook army.ipynb
+c) Check notebook alcohol.ipynb
